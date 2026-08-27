@@ -1,0 +1,28 @@
+# Visual Studio e .NET
+.vs/
+bin/
+obj/
+*.user
+*.suo
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Empacotamento Python
+build/
+dist/
+*.spec
+
+# Dados gerados durante a execução
+hanoi_scores.json
+
+# Sistema operacional e editores
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
